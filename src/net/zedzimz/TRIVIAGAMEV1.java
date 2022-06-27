@@ -2,7 +2,7 @@ package net.zedzimz;
 
 import java.util.Scanner;
 
-public class TRIVIAGAMEV1 {
+/*public class TRIVIAGAMEV1 {
     public static void main(String[] args) {
 
         int answer1 = 5;
@@ -52,4 +52,4 @@ public class TRIVIAGAMEV1 {
             System.out.println("A perfect score! NICE COCK!");
         }
     }
-}
+}*/

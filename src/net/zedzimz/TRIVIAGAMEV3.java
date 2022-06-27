@@ -2,7 +2,7 @@ package net.zedzimz;
 
 import java.util.Scanner;
 
-public class TRIVIAGAMEV3 {
+/*public class TRIVIAGAMEV3 {
     public static void main(String[] args) {
         while(true) {
         String[] questions = new String[5];
@@ -122,3 +122,4 @@ public class TRIVIAGAMEV3 {
         }
     }
 }
+ */

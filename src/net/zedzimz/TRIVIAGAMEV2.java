@@ -2,7 +2,7 @@ package net.zedzimz;
 
 import java.util.Scanner;
 
-public class TRIVIAGAMEV2 {
+/*public class TRIVIAGAMEV2 {
     public static void main(String[] args) {
 
         String question1 = "Which undead mob shoots a bow and arrow?";
@@ -105,3 +105,5 @@ public class TRIVIAGAMEV2 {
         System.out.println("Made by Zed.");
     }
 }
+
+ */
