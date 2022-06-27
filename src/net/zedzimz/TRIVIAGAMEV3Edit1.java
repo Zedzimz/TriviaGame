@@ -2,7 +2,7 @@ package net.zedzimz;
 
 import java.util.Scanner;
 
-/*public class TRIVIAGAMEV3Edit1 {
+public class TRIVIAGAMEV3Edit1 {
     public static void main(String[] args) {
         while(true) {
             String[] questions = new String[5];
@@ -84,4 +84,3 @@ import java.util.Scanner;
     public static void printFinishedTrivia() { System.out.println("Congratulations! You've finished the trivia!"); }
     public static void printHint(String hint) { System.out.println(hint); }
 }
- */

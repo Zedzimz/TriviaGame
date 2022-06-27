@@ -27,8 +27,5 @@ public class TGV4QAH {
         hints[2] = "Hint!: It might be in his name!";
         hints[3] = "Hint!: It's shiny!";
         hints[4] = "Hint!: It's less than boots but more than a sword!";
-
-
-
     }
 }
