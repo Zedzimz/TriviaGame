@@ -1,4 +1,4 @@
-package net.zedzimz;
+package net.zedzimz.pasttrivia;
 
 import java.util.Scanner;
 
